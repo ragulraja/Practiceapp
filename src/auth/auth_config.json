@@ -1,0 +1,6 @@
+{
+  "domain": "YOUR_DOMAIN",
+  "clientId": "YOUR_CLIENT_ID",
+  "redirect_uri": "http://localhost:3000",
+  "audience": "your_auth0_custom_api_identifier = your_graphql_endpoint"
+}
